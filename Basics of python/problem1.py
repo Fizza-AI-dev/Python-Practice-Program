@@ -1,0 +1,2 @@
+print('''twinkle twinkle little star
+      twinkle twinkle little star''')

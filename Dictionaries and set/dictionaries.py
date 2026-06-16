@@ -1,0 +1,10 @@
+a={
+    "key":"value",
+    "name":"fizza",
+    "marks":"1074",
+    "lists":[4,"hello","world"]
+}
+print(a["lists"])
+print(a["key"])
+print(a["marks"])
+print(a["lists"],type("marks"))
