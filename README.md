@@ -1,5 +1,4 @@
-# Python-Practice-Program
-# Python Practice Programs
+# Python-Practice-Programs
 
 This repository contains Python practice programs organized topic-wise.
 
